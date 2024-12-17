@@ -1,4 +1,4 @@
-create table Article {
+create table Article (
     id int primary key auto_increment,
     title varchar(50), -- 标题
     type int, -- 类型
@@ -9,4 +9,4 @@ create table Article {
     created datetime,
     team int,
     status int
-}
+)

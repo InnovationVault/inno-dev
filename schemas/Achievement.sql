@@ -1,4 +1,4 @@
-create table Achievement {
+create table Achievement (
     id int primary key auto_increment,
     title varchar(50), -- 标题
     type int, -- 类型
@@ -10,4 +10,4 @@ create table Achievement {
     created datetime,
     team int,
     status int
-}
+)

@@ -1,4 +1,4 @@
-create table UserDetail {
+create table UserDetail (
     id int primary key auto_increment,
     user_id int,
     title varchar(50), -- 职务
@@ -6,4 +6,4 @@ create table UserDetail {
     reason varchar(255), -- 申请原因
     background varchar(255), -- 学术背景
     achievements varchar(255) -- 学术成果
-}
+)

@@ -1,4 +1,4 @@
-create table User {
+create table User (
     id int primary key auto_increment,
     username varchar(50),
     email varchar(255) unique,
@@ -8,4 +8,4 @@ create table User {
     role int,
     status int,
     created datetime
-}
+)
