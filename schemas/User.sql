@@ -5,7 +5,9 @@ create table User (
     password varchar(255),
     avatar varchar(255),
     name varchar(50),
+    gender int,
     role int,
     status int,
+    permission int, -- 权限
     created datetime
 )
