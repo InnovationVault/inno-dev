@@ -8,8 +8,8 @@
 
 **List**
 
-- [ ] 超级管理员不用前台提问（\*）
-- [ ] 前台可以进入后台（\*）
+- [x] 超级管理员不用前台提问（\*）[InnoFront PR 17](https://github.com/InnovationVault/inno-front/pull/17)
+- [x] 前台可以进入后台（\*）[InnoFront PR 17](https://github.com/InnovationVault/inno-front/pull/17)
 - [ ] 权限可配置（\*\*\*）
 - [ ] 创建团队管理员自动随机密码（\*\*）
 - [x] 留言管理往下放（\*）Fixed in [Atom PR 32](https://github.com/InnovationVault/atom/pull/32)
