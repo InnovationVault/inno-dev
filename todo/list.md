@@ -24,5 +24,6 @@
 - [ ] 普通用户注册也要审核，邮箱审核（\*\*\*\*）
 - [ ] 提交审核简历太过简单，富文本框（\*\*\*\*）
 - [x] 审核中位置更改（\*） [Atom PR 32](https://github.com/InnovationVault/atom/pull/32)
+- [x] 侧边栏高亮错误 (\*) [Atom PR 32](https://github.com/InnovationVault/atom/pull/32)
 - [ ] 写报告时有些代码展示（\*）
 - [ ] 基于 servlet（\*\*）
