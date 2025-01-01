@@ -25,5 +25,5 @@
 - [ ] 提交审核简历太过简单，富文本框（\*\*\*\*）
 - [x] 审核中位置更改（\*） [Atom PR 32](https://github.com/InnovationVault/atom/pull/32)
 - [x] 侧边栏高亮错误 (\*) [Atom PR 32](https://github.com/InnovationVault/atom/pull/32)
-- [ ] 写报告时有些代码展示（\*）
+- [x] 写报告时有些代码展示（\*）[Finished at 2025-01-01 21:05]
 - [x] 基于 servlet（\*\*）[Atom PR 37](https://github.com/InnovationVault/atom/pull/37) & [InnoBack PR 59](https://github.com/InnovationVault/inno-back/pull/59)
