@@ -14,7 +14,7 @@
 - [ ] 创建团队管理员自动随机密码（\*\*）[Temporarily won't fix due to dirty data in current database table]
 - [x] 留言管理往下放（\*） [Atom PR 32](https://github.com/InnovationVault/atom/pull/32)
 - [ ] 修改团队信息的简介框，不能只是一行（\*\*\*）
-- [ ] 默认的文本框要长些（\*）
+- [x] 默认的文本框要长些（\*）[Atom PR 40](https://github.com/InnovationVault/atom/pull/40)
 - [x] 新创建的在上面（\*） [Atom PR 34](https://github.com/InnovationVault/atom/pull/34) & [InnoBack PR 55](https://github.com/InnovationVault/inno-back/pull/55)
 - [x] 提交直接保存并提交审核(合并一步)（\*\*） [Atom PR 36](https://github.com/InnovationVault/atom/pull/36) & [InnoBack PR 57](https://github.com/InnovationVault/inno-back/pull/57)
 - [x] 权限提醒前置（\*）[Atom PR 32](https://github.com/InnovationVault/atom/pull/32)
